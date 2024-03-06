@@ -2,7 +2,7 @@
     "SystemMessageShowBefore": "",
     "SystemMessage": "",
     "ShowAds": true,
-    "adOpacityDelta": 0.0,
+    "AdOpacityDelta": 0.0,
     "AdScale": 0.7,
     "StartAfterMin": 30,
     "OnDurationMin": 9,
