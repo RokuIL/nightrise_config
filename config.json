@@ -1,0 +1,15 @@
+{
+    "SystemMessageShowBefore": "",
+    "SystemMessage": "",
+    "ShowAds": true,
+    "adOpacityDelta": 0.0,
+    "AdScale": 0.7,
+    "StartAfterMin": 30,
+    "OnDurationMin": 9,
+    "PauseDurationMin": 1,
+    "ShakeThreshold": 0.2,
+    "VolumeStart": 0.05,
+    "VolumeIncrement": 0.1,
+    "SecsNextIcrease": 5,
+    "LogErrors": true
+}
