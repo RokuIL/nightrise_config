@@ -9,7 +9,7 @@
     "PauseDurationMin": 1,
     "ShakeThreshold": 0.2,
     "VolumeStart": 0.05,
-    "VolumeIncrement": 0.1,
-    "SecsNextIcrease": 5,
+    "VolumeIncrement": 0.02,
+    "SecsNextIcrease": 1,
     "LogErrors": true
 }
